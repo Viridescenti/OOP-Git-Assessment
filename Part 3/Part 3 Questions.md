@@ -29,3 +29,4 @@ Step 6. Manage conflicts - resolve the conflictsthe local repository has new cha
 
 Step 7. Manage conflicts - resolve the conflicts
 
+"Crimson-black blaze, king of myriad worlds..."
